@@ -201,8 +201,7 @@ Next Phase
 
 -Shark Performance Dashboard
 -Investment Trends Analysis
-![App Screenshot](<img width="1297" height="732" alt="Screenshot 2026-06-23 143215" src="https://github.com/user-attachments/assets/984e7877-b335-4186-8a43-46ae95ccf54b" />
-)
+![App Screenshot](https://github.com/user-attachments/assets/984e7877-b335-4186-8a43-46ae95ccf54b)
 
 ----Conclusion-------
 This project demonstrates the complete Data Analyst workflow from raw data to actionable insights. Through systematic data cleaning, exploratory analysis, and feature engineering, the dataset was transformed into a reliable foundation for business intelligence reporting and predictive analytics.
