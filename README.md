@@ -197,8 +197,12 @@ Next Phase
 -Planned dashboard componentsExecutive Summary
 -Deal Success Analysis
 -Industry Performance Dashboard
+
+
 -Shark Performance Dashboard
 -Investment Trends Analysis
+![Image Description](images/screenshot.png)
+
 
 ----Conclusion-------
 This project demonstrates the complete Data Analyst workflow from raw data to actionable insights. Through systematic data cleaning, exploratory analysis, and feature engineering, the dataset was transformed into a reliable foundation for business intelligence reporting and predictive analytics.
